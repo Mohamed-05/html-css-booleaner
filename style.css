@@ -1,0 +1,17 @@
+header{
+    background-image: url(./img/pattern.png);
+    height: 200px;
+    background-color: aqua;
+}
+
+.logo{
+    height: 50px;
+}
+
+#corsi{
+    color: blue;
+}
+
+.evidenziato{
+    color: yellow;
+}
